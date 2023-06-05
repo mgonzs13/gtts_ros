@@ -3,9 +3,9 @@
 <package format="3">
   <name>gtts_ros</name>
   <version>1.0.0</version>
-  <description>gtts package for ros2.</description>
-  <maintainer email="m.huber_1994@hotmail.de">mhubii</maintainer>
-  <license>MIT</license>
+  <description>gtt_ros</description>
+  <maintainer email="mgons@unileon.es">Miguel Ángel González Santamarta</maintainer>
+  <license>GPL-3</license>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
